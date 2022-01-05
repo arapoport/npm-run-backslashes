@@ -1,0 +1,15 @@
+{
+  "name": "npm-double-slashes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "print-args": "node print"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "demo": "./"
+  }
+}
